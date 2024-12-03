@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\493755__dj997__jingle-bells %283%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\333845__thebillinator3000__spookynoise1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\110158__juskiddink__jingle-bells.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\562259__funkfactory2000__jessi_jingle-stick %281%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\691287__wastefield__single-jingle-bells-shaking-007 %281%29.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
